@@ -1,4 +1,4 @@
-# BallCatchingGame 🎮
+# Ball Catching Game 🎮
 
 A simple and addictive game where players control a paddle to catch falling balls. Built with love using Python and Pygame.
 
